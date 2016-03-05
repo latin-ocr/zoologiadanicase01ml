@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoologiadanicase01ml_0121.png"; bbox 0 0 2008 3677; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 20 989 1755 1402">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 20 989 1755 1402">
+     <span class='ocr_line' id='line_1_1' title="bbox 215 989 1474 1122; baseline 0.009 -11"><span class='ocrx_word' id='word_1_1' title='bbox 215 989 1474 1122; x_wconf 73' lang='lat' dir='ltr'>.ANIMALIVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 20 1255 1755 1402; baseline -0.001 -58"><span class='ocrx_word' id='word_1_2' title='bbox 20 1257 586 1344; x_wconf 73' lang='lat' dir='ltr'>DANIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 655 1255 821 1335; x_wconf 85' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 890 1258 1755 1402; x_wconf 73' lang='lat' dir='ltr'>NORVEGlAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1502 1585 1560">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1502 1585 1560">
+     <span class='ocr_line' id='line_1_3' title="bbox 191 1502 1585 1560; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 191 1504 637 1557; x_wconf 66' lang='lat' dir='ltr'>RARIORVM</span> <span class='ocrx_word' id='word_1_6' title='bbox 691 1505 784 1551; x_wconf 74' lang='lat' dir='ltr'>AC</span> <span class='ocrx_word' id='word_1_7' title='bbox 843 1502 1111 1551; x_wconf 84' lang='lat' dir='ltr'>MINVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1168 1506 1585 1560; x_wconf 75' lang='lat' dir='ltr'>NOTORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 507 1698 1266 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 507 1698 1266 1793">
+     <span class='ocr_line' id='line_1_4' title="bbox 507 1698 1266 1793; baseline 0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 507 1698 1266 1793; x_wconf 81' lang='lat' dir='ltr'><strong>HISTORIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 297 1995 1745 2105">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 297 1995 1745 2105">
+     <span class='ocr_line' id='line_1_5' title="bbox 297 1995 1745 2105; baseline -0.006 -1"><span class='ocrx_word' id='word_1_10' title='bbox 297 2031 819 2105; x_wconf 81' lang='lat' dir='ltr'><em>VOLVMEN</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 882 2027 1298 2099; x_wconf 78' lang='lat' dir='ltr'><em>SECVND</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1316 2031 1474 2097; x_wconf 84' lang='lat' dir='ltr'>VM.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1742 1995 1745 1999; x_wconf 59' lang='grc'><em>”</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
